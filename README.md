@@ -1,3 +1,5 @@
+This repository is archival, read-only, moved to https://code.jlab.org/hallb/clas12/rcdb
+
 ## RCDB
 
 ![Python tests](https://github.com/JeffersonLab/rcdb/actions/workflows/python-tests.yml/badge.svg)
